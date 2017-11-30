@@ -1,10 +1,7 @@
-# FullCalendar [![Build Status](https://travis-ci.org/fullcalendar/fullcalendar.svg?branch=master)](https://travis-ci.org/fullcalendar/fullcalendar)
+# FullCalendar Native 
 
-A full-sized drag & drop event calendar (jQuery plugin).
+A full-sized drag & drop event calendar (without JQuery).
 
-- [Project website and demos](http://fullcalendar.io/)
-- [Documentation](http://fullcalendar.io/docs/)
-- [Support](http://fullcalendar.io/support/)
-- [Contributing](CONTRIBUTING.md)
-- [Changelog](CHANGELOG.md)
+Disclaimer : This is not an offical port of fullcalendar.
+
 - [License](LICENSE.txt)
